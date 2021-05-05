@@ -6,7 +6,7 @@ A CLI tool that lets you see the rank of a measure of position using the number 
 
 ## How To Use
 
-The tool works with percentiles, so it prompts you to input what measure of position you want in percentiles, this is noted as "P". It also asks you how many values there are in the list, noted as "N = ". After taking all inputs, it shows what position/rank is the M.O.P.
+The tool works with percentiles, so it prompts you to input what measure of position you want in percentiles, this is noted as "P". It also asks you how many values there are in the list, noted as "N = ". Lastly, it will ask for the list, separated by spaces, sorted or unsorted. After taking all inputs, it shows what position and value is the M.O.P.
 
 ![GIF Preview](previews/cli-preview.gif)
 
